@@ -1,0 +1,13 @@
+n1 = 5
+n2 = 2
+n3 = 16
+n4 = 8
+print("SOMA =", n1 + n2)
+print("SUBTRACAO =", n1 - n2)
+print("MULTIPLICACAO =", n1 * n2)
+print("DIVISAO =", n1 / n2)
+print("DIVISAO INTEIRA =", n1 // n2) 
+print("RESTO =", n1 % n2)
+print("POTENCIA =", n1 ** n2)
+print("RAIZ QUADRADA=", n3**(1/2))
+print("RAIZ CUBICA=", n4**(1/3))
